@@ -86,3 +86,9 @@ Visualize operation https://www.cs.usfca.edu/~galles/visualization/BPlusTree.htm
 ![](assets/sql-lite.png)
 ![](assets/berkeley-db.png)
 ![](assets/db-engine-comparison.png)
+
+# Reference
+https://www.youtube.com/watch?v=aZjYr87r1b8
+https://www.youtube.com/watch?v=vYp4LYbnnW8&t=1499s
+https://www.youtube.com/watch?v=K9Qd3UMHUQ4&t=2880s
+https://www.youtube.com/watch?v=C_q5ccN84C8
